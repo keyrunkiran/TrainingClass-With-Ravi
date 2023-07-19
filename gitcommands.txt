@@ -53,6 +53,6 @@ Forking:
 
 
 commands to delete:
-git remote delete origin branch name
+git push origin --delete "Name of the branch"
 git branch -d branch name
 
