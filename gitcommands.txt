@@ -52,4 +52,7 @@ Forking:
 
 
 
+commands to delete:
+git remote delete origin branch name
+git branch -d branch name
 
