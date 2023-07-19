@@ -1,0 +1,49 @@
+Git Commands:
+
+1. git init- To initialize
+2. git add - To add the files
+3. git commit -m "" - To commit the files
+4. git remote add origin - To add you Github account in the present location
+5. git push origin master- To push the files to remote repo
+6. git config --global user.email "" - To config your email
+7. git config --global user.name "" - To config your username
+
+
+Branching:
+
+1. git branch "" - To create the branch
+2. git checkout-  switch to branches
+3. git checkout -b "" - Diretly create branch and enters into the branch
+4. git branch -D "" - To delete the branch
+
+
+Branch Merging:
+
+1. git merge - To merge the branches and maintain the history
+2. git rebase - When you merge it will maintain similar ID
+3. git log - To create the log when your commit
+4. git log --graph --pretty=oneline
+
+logs:
+
+1. git revert ID ""
+2. git checkout ID ""
+
+
+SSH/HTTPS:
+1.git remote add httpsorigin "URL"
+2.git remote add sshorigin "URL"
+
+
+
+To to ssh:
+
+1st steps: cd .ssh
+2nd step: ssh-keygen
+3rd step: isd-rsa_pub - key
+4th step: Go to Github account-->setting-->SSH--> Add the key
+
+
+
+
+
