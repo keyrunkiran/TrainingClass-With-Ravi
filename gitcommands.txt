@@ -43,6 +43,12 @@ To to ssh:
 3rd step: isd-rsa_pub - key
 4th step: Go to Github account-->setting-->SSH--> Add the key
 
+Clone:
+1. git clone URL - Add the Github rep to your local system
+
+
+Forking:
+
 
 
 
