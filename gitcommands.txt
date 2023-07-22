@@ -56,3 +56,14 @@ commands to delete:
 git push origin --delete "Name of the branch"
 git branch -d branch name
 
+Hotfix:
+
+1. sudo apt-get update
+2. sudo apt-get install git-flow (before running hotfix install git-flow)
+3. git flow init (initiate git flow)
+4. git flow hotfix start '0.1' ( start hotfix)
+5. touch config.txt ( create the file)
+6. nano config.txt ( edit the file)
+7. git add .
+8. git commit -m "fixed"
+9. git flow hotfix finish '0.1' (Finish the hotfix)
