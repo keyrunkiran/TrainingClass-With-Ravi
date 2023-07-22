@@ -67,3 +67,5 @@ Hotfix:
 7. git add .
 8. git commit -m "fixed"
 9. git flow hotfix finish '0.1' (Finish the hotfix)
+
+END OF THE GIT:
